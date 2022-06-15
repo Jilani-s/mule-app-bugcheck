@@ -2,3 +2,6 @@
 <types:mule xmlns:types="http://www.mulesoft.org/schema/mule/types">
   <types:catalog/>
 </types:mule>
+<types:mule xmlns:types="http://www.mulesoft.org/schema/mule/types">
+  <types:catalog/>
+</types:mule>
